@@ -1,0 +1,28 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+.bg1 {
+  background : #26a9df;
+}
+
+.bg3 {
+  background : #fff;
+}
+
+.bg2 {
+  background : #F2F3F5;
+}
+
+body {
+  /* background: #343a40; */
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background : #F2F3F5;
+  color : #282c3f;
+}
